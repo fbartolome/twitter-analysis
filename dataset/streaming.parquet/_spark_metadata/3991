@@ -1,0 +1,3 @@
+v1
+{"path":"file:///dataset/streaming.parquet/ds=2021-10-11/hour=16%253A00/part-00000-45629bc0-1515-4080-9cc3-c51a5a836a63.c000.snappy.parquet","size":1227,"isDir":false,"modificationTime":1633979403000,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///dataset/streaming.parquet/ds=2021-10-11/hour=16%253A00/part-00001-3f8fa962-3dd2-4f9d-a5e5-f2fe7e4f7967.c000.snappy.parquet","size":1191,"isDir":false,"modificationTime":1633979403000,"blockReplication":1,"blockSize":33554432,"action":"add"}
