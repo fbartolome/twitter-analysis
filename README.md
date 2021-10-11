@@ -88,6 +88,4 @@ Desde el container de jupyter se puede encontrar el notebook `Twitter emoji bar 
 A continuación se puede ver el resultado de los emojis mas utilizados entre el 10 de Octubre del 2021 a las 12:00 y el 11 de Octubre del 2021 a las 16:00 buscando tweets que contengan 'alberto fernandez':
 
 
-
-
-
+![bcr_cumulative_alberto_fernandez](https://user-images.githubusercontent.com/7634605/136855170-8be8c2a0-0193-4dd6-a3b1-f865a914879b.gif)
